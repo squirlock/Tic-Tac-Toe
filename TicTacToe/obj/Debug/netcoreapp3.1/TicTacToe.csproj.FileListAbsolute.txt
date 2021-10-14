@@ -14,3 +14,19 @@ D:\Dedicated Projects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
 D:\Dedicated Projects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
 D:\Dedicated Projects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
 D:\Dedicated Projects\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.WelcomeForm.resources
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.Form1.resources
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.WelcomeForm.resources
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.GenerateResource.cache
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\Dedicated Projects\TicTacToe Project\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache

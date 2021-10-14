@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dedicated Projects\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "D:\\Dedicated Projects\\TicTacToe Project\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "D:\\Dedicated Projects\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "D:\\Dedicated Projects\\TicTacToe Project\\TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\ankit\\.nuget\\packages\\",
-      "outputPath": "D:\\Dedicated Projects\\TicTacToe\\obj\\publish\\win-x86\\",
+      "outputPath": "D:\\Dedicated Projects\\TicTacToe Project\\TicTacToe\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
