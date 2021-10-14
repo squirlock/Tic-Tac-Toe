@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p05dOH0XaSqWz4yWOwJeFi3XxP37smWBtLPP9Ef1fNmVLe0DrubxRf9uXfLirgCDN/5mOGHID+ufC+AEKi68ew==",
+  "success": true,
+  "projectFilePath": "D:\\Dedicated Projects\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.8\\microsoft.netcore.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x86.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
